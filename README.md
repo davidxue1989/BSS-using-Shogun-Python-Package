@@ -4,7 +4,7 @@
 - Will be updated and new file will be posted eventually
 
 
-# -------------------------------------------------------------------------- #
+# -------------------------------------------------------------------- #
 SOBI_example.py: 
 
 A simple example of Blind Source Separation (BSS) on mixes of four damped responses randomly superposed and noise added. 
@@ -26,7 +26,7 @@ approximate diagonalization
 
 - Bridge Structural Identification using Moving Vehicle Acceleration Measurements
 
-# -------------------------------------------------------------------------- #
+# -------------------------------------------------------------------- #
 
 
 
